@@ -1,5 +1,5 @@
 {
-  "name": "secure-pass-gen",
+  "name": "@mariia_m_165/secure-pass-gen",
   "version": "1.0.0",
   "description": "Password generation package created as part of the training",
   "main": "index.js",

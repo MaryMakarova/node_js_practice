@@ -11,13 +11,13 @@ A simple library for generating random passwords, created as part of a Node.JS t
 ## Installation
 
 ```bash
-npm install secure-pass-gen
+npm install @mariia_m_165/secure-pass-gen
 ```
 
 ## Usage
 
-```
-const { generatePassword } = require('secure-pass-gen');
+```JS
+const { generatePassword } = require('@mariia_m_165/secure-pass-gen');
 
 // Generate a default password (12 characters, includes letters and numbers)
 const password1 = generatePassword();
@@ -56,7 +56,7 @@ The `generatePassword(length, options)` function accepts:
 
 ## Examples
 
-```
+``` bash
 $ node index.js
 fKm39qBv61Rt
 !@9Bd3rTg8#LpWzQ
